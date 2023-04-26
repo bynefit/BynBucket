@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintLocationsKey" : {
+    "F0A49DCB61743D0D298CD5F7E5C636BC1A9670D7" : {
+      "DVTSourceControlBranchIdentifierKey" : "main",
+      "DVTSourceControlLocationRevisionKey" : "5697fb0cebcc5101ea73aade2188f95ff5513471",
+      "DVTSourceControlBranchOptionsKey" : 4,
+      "DVTSourceControlBranchRemoteNameKey" : "origin",
+      "DVTSourceControlWorkspaceBlueprintLocationTypeKey" : "DVTSourceControlBranch"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F0FFB51C-A20E-4BDA-91D6-77AAC9C70A88",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F0A49DCB61743D0D298CD5F7E5C636BC1A9670D7" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BynBucket",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BynBucket.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bynefit\/BynBucket.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F0A49DCB61743D0D298CD5F7E5C636BC1A9670D7"
+    }
+  ]
+}
